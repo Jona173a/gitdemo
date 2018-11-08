@@ -8,3 +8,5 @@ chips
 matadormix
 ananas
 kiwi
+bananer
+æbler
