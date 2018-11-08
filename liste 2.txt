@@ -10,3 +10,4 @@ ananas
 kiwi
 bananer
 æbler
+tomater
