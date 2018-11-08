@@ -14,3 +14,5 @@ bananer
 tomater
 æg
 agurk
+sukker
+mel
