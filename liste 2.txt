@@ -2,3 +2,7 @@ Indkøbsliste
 Brød
 kaffe
 Kaffe fløde
+kaffe sukker
+sodavand
+chips
+matadormix
